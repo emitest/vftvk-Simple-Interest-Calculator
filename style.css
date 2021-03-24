@@ -1,12 +1,20 @@
+
 body {
     background-color:black;
     font: arial;
-    font-color: white;
+    color: white;
+    align: center;
+    padding: 50px;
+    width: 600px;
     }
 
 h1 {
     color:grey;
     font: verdana;
+    font-weight: bold;
+    align: center;
+    style: bold;
+    font-size: 30px;
     }
 
 .maindiv {
@@ -14,7 +22,16 @@ h1 {
     color: black;
     width: 300px;
     padding: 20px;
-    border-radius: 25ps;
+    border-radius: 25px;
+    text-align: center;
+    }
+
+.values {
+    background-color: yellow;
     align: center;
+}
+
+#rate {
+    background-color: black;
 }
 
